@@ -1,5 +1,4 @@
-# Willkommen bei JobLog <img src="uploads/654e28ba507a144579e08300c3680eef/Logo_BlackOnTransparent_64x64px.png" width="32" height="32" />
-
+# Willkommen bei JobLog 
 
 ## Projektbeschreibung:
 
