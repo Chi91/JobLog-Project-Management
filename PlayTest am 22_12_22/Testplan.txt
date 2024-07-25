@@ -1,0 +1,50 @@
+Student:
+
+Fall 1
+
+1. Registireire dich als Student in der App
+2. nach erfolgreicher Registrierung vervollständige dein Profil
+
+---> Dummydaten die zum Upload zur Verfügung stehen
+---> Registrierung führt gleich zur Hompage
+
+Fall 2
+
+1. Logge dich ein mit der Email XXX und dem PW XXX
+2. Lasse dir alle alle Jobs anzeigen
+3. Filtere die Jobs nach Fachbreich 6
+4. Wähle davon einen Job der dir gefällt
+5. Bewerbe sich dich auf diesen Job und gib deinen Lebenslauf als Dokument frei
+
+---> Dummystudenten mit hinterlegetem Lebenslauf 20h Verfügbarkeit
+---> 3 Jobs die zu dem Fachbreich des Studenten passen
+
+Fall 3
+
+1. Logge dich ein mit der Email XXX und dem PW XXX
+2. Passe deine Verfügbarkeit in deinem Profil an. Di 10:00-16:30 Do 13:15-15:30
+3. Lasse dir alle Jobs anzeigen.
+4. Filtere deine Jobs nach TimeMatch.
+5. Wähle davon einen Job der dir gefällt
+6. Bewerbe sich dich auf diesen Job und gib deinen Lebenslauf als Dokument frei
+
+---> Dummystudenten mit hinterlegetem Lebenslauf ohne Verfügbarkeitszeiten
+---> 3 Jobs die zu dem Verfügbarkeitszeiten des Studenten passen
+
+WAS BIS DAHIN FUNKTIONIEREN MUSS:
+BE: TimeMatch
+
+FE: Bewerben - Dokumentenfreigabe Modale - Applikation create req
+    Filtern Maske - TimeMatch, Fachbereich, Studiengang
+    Jobcards anpassen (Häckchen) mit Info vom Backend
+
+************************************************************************************
+Company:
+
+Fall 1
+
+1. Registireire dich als Company in der App
+2. nach erfolgreicher Registrierung vervollständige dein Profil
+
+---> Registrierung führt gleich zur Hompage
+

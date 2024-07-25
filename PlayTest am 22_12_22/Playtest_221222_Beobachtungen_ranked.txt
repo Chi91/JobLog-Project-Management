@@ -1,0 +1,63 @@
+Prio (H|M|L) / Aufwand (H|M|L)
+* Ticket erstellt
+
+*(H/H+)
+Die Zeitauswahl bei der Verfügbarkeit fühlte sich für viele unergonomisch an.
+	Eingabe über eine Uhr?
+
+*(H/H)
+Suche: Bei der Suche nach Jobs wurde ein Tester beim betätigen der Entertaste zur Startseite geleitet.
+
+*(H/M+)
+Cookies: Nutzer aktualisierten die Browserseiten und wurden somit ausgeloggt.
+
+*(H/M)
+Es wurde nach der Erstellung einer Bewerbung ein Feedback vermisst, dass man sich erfolgreich beworben hab.
+	Erstellen eines Successmodals.
+
+*(H/M)
+Dokumente: Tester wünscht sich beim Prozess des Bewerbens die Option, Dokumente hochzuladen. Bisher geht dies nur, falls Dokumente im Vorfeld hochgeladen wurden.
+	
+*(H/L)
+Registrierung: Eine E-Mail-Adresse die vor dem @-Zeichen einen Punkt enthielt (Beispielhaft: test.dummy@bht.de), verhinderte beim Tester eine erfolgreiche Registrierung.
+
+*(M/L+)
+Button: Ein Button, der alle gesetzten Filter und alle eingetragenen Zeitslots auf „default“ zurücksetzt.
+		Filter zurücksetzen und Verfügbarkeiten (alle Löschen), aber mit Rückfrage Modal
+		
+*(M/L)
+Das Schließen des „Filtern“ Dialogs wurde mehrfach über das Filtersymbol angesteuert, ohne dass vorab auf den „Filtern anwenden“ Button geklickt wurde. Somit gab es keinen gefilterten Zustand und Verwirrung bei Nutzenden.
+    Das Schließen des Dialogs über das Filtersymbol muss ebenfalls eine Filterung der Liste verursachen.
+
+*(M/L)
+Icons / Beschriftung: Das verwendete Icon für die Urlaubstage war für mehrere Tester nicht verständlich. Ebenfalls auch die Angabe der Bezahlung pro Stunde.
+
+*(M/L)
+Button: Ein Tester empfiehl Speicherbuttons nur / ebenfalls unten einzusetzen. Nach dem Befüllen von Inputfeldern erschien das hochscrollen umständlich. 
+		Zusätzlicher Speicherbutton unten
+		
+*(M/M+)
+Zeitslots: Mehrfache Belegung von gleichen Zeiten / Zeitslots an einem Tag sind möglich.
+
+*(M/M)
+Die Job Cards wurden oft im Gesamtem geklickt oder auch das Profilbild der Company, um zu der Ansicht des einzelnen Jobs zu gelangen, was nicht funktionierte.
+	Die gesamte Card sollte eine klickbare Fläche sein.
+
+(L/L-)
+Das Logo im Header wurde geklickt um zur Homeansicht zu gelangen, was nicht funktionierte.
+	Das Logo zur Homeseite verlinken.
+
+(L/L)
+Beim Time-Match wurde auch immer versucht der Filter über das Antippen auf den Text zu setzten, was nicht funktionierte.
+	„Hitbox“ der Checkbox so ausweiten oder Text auch zum Auslöser machen.
+
+(L/L)
+Design: Modale teilweise zu groß und das schließen nicht zu sehen, wenn die Systemeinstellung bei 150% liegt
+
+(L/L)
+Design/Registrierungsbutton: Nutzer findet das Design „trocken“ und übersah den Registrierungsbutton (Platzierung ändern).
+		Design auf Secondary-Button
+		
+(L/H+)
+Es wurde angemerkt, ob es auch die Möglichkeit für Companys gibt Gleitzeit zu hinterlegen.
+	Prüfen inwiefern das möglich ist und wie es sich auf den Matching-Algorithmus auswirken würde.

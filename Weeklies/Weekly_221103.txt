@@ -1,0 +1,50 @@
+Weekly Meeting - 03.11.2022
+Protokoll: Nadine Brandes
+
+Tickets:
+    -Akzeptanzkriterien fehlen (für die Review wichtig!)
+    -Task nutzen um die TODO zu definieren
+    -Linked Items gern nutzen
+
+    -Ticket muss so geschrieben sein, so dass man das Ticket anhand der Beschreibung implementieren kann
+    -Unterscheidung zwischen Offen als Idee, und nen Label als ausdefiniertes Ticket, was anständig formuliert Items
+        --> Idee offene Idden im Team ausformulieren
+
+Architektur:
+    -UML zur Dokumentation
+    -API Swagger - ok so
+    -Diagramm  - SE II Layer
+
+Milestones:
+    -Festlegen - wöchentliche oder inhaltliche
+    -Priosierung (USP zurerst)
+
+Dokumentation:
+    -Wiki
+        -Developerdokumentation --> OnBoarding Dokument Technisches Setup
+        -Projekt Dokumentation
+            -Beschreibung
+            -Komponentendiagramm
+            -Mocks
+
+Termine:
+    -letzte Woche vor den Weihnachtsferien Playtest (22.12)
+    -UPS!
+
+Aufgaben:
+    Ticket research:
+    -Eldab möglich? Authentifizierung/Autorisierung
+    -Implementierungen realistisch
+
+    -Doku allg. - DeveloperDoku !
+
+    -Milestones
+
+    -MVPs für Playtest
+
+    FE - Login Desktop und Mobile - Home Screen
+    FE - 
+
+    BE - Verfügbarkeiten Datenmodell
+
+    Gruppentermine festsetzten Do vor Ort und anderer Tag online

@@ -1,0 +1,28 @@
+Weekly Meeting - 17.11.2022
+Protokoll: Nadine Brandes
+
+Company -  Job Zeiten:
+    Statt Slots --> Kernarbeitszeiten - Wording
+    Wie funktioniert ein Match?
+        1. Gesamtarbeitszeit passt
+        2. passt die Arbeitszeit des Studenten in die Slots des AG in den jeweiligen Tagen
+        3. reichen alle matching Stunden für die Gesamtarbeitszeit
+
+neuen Endpoint Applikation/Jobitend:
+    hat JobapplikationID, jobid, studentid, shared files (array mit Ids)
+    Damit Problem der Bewerbung und freigegebenen Files gelöst
+        CREATE (Bewerben Button wird gedrückt)
+        PUT (für shared files - Bewerbung bearbeiten)
+        DELETE (Bewerbung zurückziehen)
+        GET {jobID} --> Subset mit allen StudentIDs die es gibt mit der JobID (für Company)
+        GET {studentID} --> Subset mit allen Bewerbungen mit der StudentIDID (für student)
+        GET {jobID,StudentID} --> array mit files ids shared
+        GET {JobapplikationID}
+
+FE:
+    Bewerbung zurückziehen Button neben Bewerbung bearbeiten
+    mehrere Zeitslots an einem Tag für Studenten - Abfrage Modal anpassen
+
+zu nächste Woche:
+    Jobcards, Job CRUD
+

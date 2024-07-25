@@ -1,0 +1,23 @@
+Weekly Meeting - 24.11.2022
+Protokoll: Nadine Brandes
+
+-online-
+
+
+FE 
+Mocks reduzieren Icons
+
+BE
+-
+
+
+bis nächste Woche:
+
+FE 
+Profilbearbeitung fertig machen
+Jobs Company CRUD
+
+BE
+JobApplication Datamodel 
+Digramm Datenstruktur Wiki
+Student Bewerbung auf einen Job möglich 

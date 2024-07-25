@@ -1,0 +1,37 @@
+Weekly Meeting - 12.01.2023
+Protokoll: Nadine Brandes
+
+2.2. oder 9.2.
+
+Abschlusspräsentation 20 min Gesamtzeit:
+    - "Problemstellung" angelehnt an Pitch mit UPSs
+    - technische Details (
+        Tech-Stack, 
+        wenn verwendet Designpattern, 
+        Komponentendiagramm - Architektur | API | Datenfluss
+        Flowchart - Prozess
+    )
+    - Testing und Bewertung, Beobachtungen und wie das in das Projekt eingegangen ist
+        manuelles, automatisiertes, integration Testing 
+    - Entwicklungsprozess mit Abläufen und Test etc beschreiben
+    - Distribution Depolyment (CI/CD) - Grafik
+    - was haben wir mitgenommen (Teamwork, Management, Herausforderungen)
+    - Future Work:
+        - interessante Personen Company
+        - interne Kommunikation zwichen Student und Company
+        - Suche bei Studenten auch mit Schlagwörtern
+    - LIVE-Demo ---> sehr oft testen, damit alles wirklich läuft! - Backup - evtl. Video
+    - Publikum einbinden wenn möglich
+
+Q&A Session danach
+    - was könnte gefragt werden
+
+Einführung 3-5 min
+Überblick über das Projekt
+Testing, Management, Herausforderungen
+Demo
+Q&A
+
+Nachgesprach: 15 min ggf. in der vorlesungsfreien Zeit
+
+26.01: Struktur zu übernachster Woche vorbereiten

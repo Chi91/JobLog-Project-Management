@@ -1,0 +1,25 @@
+Weekly Meeting - 26.01.2023
+Protokoll: Nadine Brandes
+
+Noch zu erledigen oder in Future Work reinbauen:
+
+- Backend nicht erreichbar Errorhandling fehlt in der Anwendung noch
+- Clientseitige Validierung der Eingaben auch im BE
+
+Präsi:
+
+- Architekturmodel -> BE und FE gesondert und etwas überarbeiten
+- Flowchartdiagramm Diagramm - Sequenzdiagram anhand eines Use-Cases (Beispiel nicht Zielführend)
+    und im Rahmen der Demo evtl. ?
+- Inwieweit ist das Depolyment automatisiert - erzählen?
+
+Dokumentation:
+- Architektur - usw.
+- Komponentendiagramm
+- Klassendiagramm
+- Wenn KI genutzt, referenzieren
+- How to set up and start the Projekt (DeveloperDoku)
+- Testing (Playtest, Unittest...)
+- Arbeitsprozess (Kommunikation mit welchen Tools, Organisation (Meilstones, Meetings, etc.))
+- Was haben wir mitgenommen
+- Ausblick Future Work

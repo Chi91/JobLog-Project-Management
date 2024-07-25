@@ -1,0 +1,31 @@
+Weekly Meeting - 05.01.2023
+Protokoll: Nadine Brandes
+
+Beobachtungen und Testauswertung besprochen
+
+02.02. Abschlusspräsentation 20 min + 5 min Q&A
+        [
+        Motivation und Ausgangslage
+        Organisation des Teams und Arbeitsprozesse
+        Live-Demo - gut Testen!!! 
+        Herausforderungen und Probleme und wie man damit umgegangen ist
+        ]
+09.02. Nachgespräch
+
+Für die kommenden 4 Wochen:
+ - Automatisierung des Deployments
+ - UX/UI Fixes auf Grundlage der Beobachtungen aus den PlayTests
+ - Suche noch implemtieren
+ - Abschlusspräsentation vorbereiten
+
+ Zu kommender Woche:
+ - Company Frontend CRUD
+        Create Ticket erstellen
+ - Verfügbarkeitseingabe ergonomisch gestalten und keine doppelten Zeiten eingeben mögl.
+        Ticket erstellen
+ - Recherche zur Suche
+ - Cookies für Log-In Token
+        Ticket erstellen
+
+
+

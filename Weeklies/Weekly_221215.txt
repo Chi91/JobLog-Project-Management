@@ -1,0 +1,25 @@
+Weekly Meeting - 15.12.2022
+Protokoll: Matthias Czernia & Chi Thien Pham
+
+- Vorzeigen des aktuellen Zwischenstandes.
+- Testen des SetUps für nächste Woche nach dem Motto: "bring your own Device"
+
+Aussicht und To-Do´s für die nächste Woche:
+- QR-Code für das Google Survey erstellen
+- WiFi-QR-Code erstellen (SSID: totonet | PW: frickeln)
+- 1 Laptop bereitstellen & 1 Handy bereitstellen, ansonsten: use your own Device
+- Eigene Protokolle / Notizen über den Verlauf der JobLog-Tests schreiben
+
+Aussicht für das neue Jahr:
+- 1. Januar Woche: Besprechung der Ergebnisse des PlayTests
+    - Welche Erkenntnisse haben uns die Tests als Team gebracht, Teamwirkung? 
+    - Welche weiteren Verfahren / Features sind nun aus diesen Erkenntnisse geplant?
+
+- Vorschlag für den weiteren Ablauf der letzten 4 Wochen abgeben (geeigneter Output für uns)
+	- Ablauf einer Firmengründung? Die nächsten Steps & Marktanalyse
+	- Features 
+	- Deployment
+	- Vorbereitung der Abschlusspräsentation
+	-  Abschlusspräsentation Anfang Februar
+	- Nachbesprechung
+

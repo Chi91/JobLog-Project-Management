@@ -1,0 +1,24 @@
+Weekly Meeting - 08.12.2022
+Protokoll: Nadine Brandes
+
+Datenbank:
+    Files Md5 über check auf Duplikate
+
+Student View
+    Logout
+
+Filtern eher im Backend
+
+
+PlayTest - in zwei Wochen
+45 min 3 Leute betreuen - 3 Leute andere testen Wechsel
+    
+    zu nächster Woche zur Rücksprache
+    Testplan erstellen
+        Company oder Student stehen zur Auswahl
+        Aufgaben stellen, was getestet werden soll (kleine Flows /Szenarios)
+            --> Datenbank Jobs entsprechend erstellen
+        --> protokollieren
+        Umfragebogen erstellen für nach dem Test (Google Umfrage)
+        
+        

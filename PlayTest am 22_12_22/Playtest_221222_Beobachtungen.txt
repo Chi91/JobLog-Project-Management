@@ -1,0 +1,79 @@
+Prio (H|M|L) / Aufwand (H|M|L)
+
+UX/UI Beobachtungen
+
+(M/L)
+Das Schließen des „Filtern“ Dialogs wurde mehrfach über das Filtersymbol angesteuert, ohne dass vorab auf den „Filtern anwenden“ Button geklickt wurde. Somit gab es keinen gefilterten Zustand und Verwirrung bei Nutzenden.
+    Das Schließen des Dialogs über das Filtersymbol muss ebenfalls eine Filterung der Liste verursachen.
+
+(M/M)
+Die Job Cards wurden oft im Gesamtem geklickt oder auch das Profilbild der Company, um zu der Ansicht des einzelnen Jobs zu gelangen, was nicht funktionierte.
+	Die gesamte Card sollte eine klickbare Fläche sein.
+
+(H/M+)
+Es wurde nach der Erstellung einer Bewerbung ein Feedback vermisst, dass man sich erfolgreich beworben hab.
+	Erstellen eines Successmodals.
+
+(L/L)
+Beim Time-Match wurde auch immer versucht der Filter über das Antippen auf den Text zu setzten, was nicht funktionierte.
+	„Hitbox“ der Checkbox so ausweiten oder Text auch zum Auslöser machen.
+
+(H/H+)
+Die Zeitauswahl bei der Verfügbarkeit fühlte sich für viele unergonomisch an.
+	Eingabe über eine Uhr?
+
+(L/L-)
+Das Logo im Header wurde geklickt um zur Homeansicht zu gelangen, was nicht funktionierte.
+	Das Logo zur Homeseite verlinken.
+
+****************************************************************
+Funktionalität 
+
+(L/H+)
+Es wurde angemerkt, ob es auch die Möglichkeit für Companys gibt Gleitzeit zu hinterlegen.
+	Prüfen inwiefern das möglich ist und wie es sich auf den Matching-Algorithmus auswirken würde.
+
+****************************************************************
+Beobachtungen der 2ten Gruppe:
+
+(H/L)
+-	Registrierung: Eine E-Mail-Adresse die vor dem @-Zeichen einen Punkt enthielt (Beispielhaft: test.dummy@bht.de), verhinderte beim Tester eine erfolgreiche Registrierung.
+
+(H/M)
+-	Dokumente: Tester wünscht sich beim Prozess des Bewerbens die Option, Dokumente hochzuladen. Bisher geht dies nur, falls Dokumente im Vorfeld hochgeladen wurden.
+
+(M/M+)
+-	Zeitslots: Mehrfache Belegung von gleichen Zeiten / Zeitslots an einem Tag sind möglich.
+
+(H/M+)
+-	Cookies: Nutzer aktualisierten die Browserseiten und wurden somit ausgeloggt.
+
+(L/L)
+-	Design/Registrierungsbutton: Nutzer findet das Design „trocken“ und übersah den Registrierungsbutton (Platzierung ändern).
+		Design auf Secondary-Button
+
+(L/L)
+- 	Design: Modale teilweise zu groß und das schließen nicht zu sehen, wenn die Systemeinstellung bei 150% liegt
+
+(H/H)
+-	Suche: Bei der Suche nach Jobs wurde ein Tester beim betätigen der Entertaste zur Startseite geleitet.
+
+(M/L)
+-	Icons / Beschriftung: Das verwendete Icon für die Urlaubstage war für mehrere Tester nicht verständlich. Ebenfalls auch die Angabe der Bezahlung pro Stunde.
+
+(nicht reproduzierbar)
+-	Overlay: In Chrome wurde beim Filtern die untere Leiste versteckt, wodurch der Button „Filter anwenden“ ausgeblendet war.
+
+(M/L)
+-	Button: Ein Tester empfiehl Speicherbuttons nur / ebenfalls unten einzusetzen. Nach dem Befüllen von Inputfeldern erschien das hochscrollen umständlich. 
+		Zusätzlicher Speicherbutton unten
+
+(M/L+)
+-	Button: Ein Button, der alle gesetzten Filter und alle eingetragenen Zeitslots auf „default“ zurücksetzt.
+		Filter zurücksetzen und Verfügbarkeiten (alle Löschen), aber mit Rückfrage Modal
+
+(siehe Uhr unter UX/UI Beobachtungen)
+-	Verfügbare Zeiten: Defaultwerte der verfügbaren Zeiten von --:-- auf 00:00 ändern, Zeitersparnis für den Nutzer beim Eintragen.
+
+(da wir nur ein Profil hatten, auf dem 5 Personen gleichzeitig gearbeitet haben - schlechtes Set-Up)
+-	Profil: Tester hatte mehrere Zeitslots für einen Tag mit doppelten Werten. Nachdem er auf die Homepage und anschließend auf sein Profil ging, wurde ihm „Loading…“ angezeigt und die Bearbeitung der Zeitslots war nicht möglich.

@@ -1,0 +1,65 @@
+Weekly Meeting - 20.10.2022
+
+Projektansprechpartner - Gerrit Behrens 918257
+Protokoll - Gerrit Behrens 918257
+
+Organisation:
+	- Gitlabprojekt erstellen - für Gesprächsnotizen
+		○ maSchubert
+	- GitHub - Wiki - Issue
+		○ Schub - Markus Schubert (username)
+	- ReadMe:
+		○ Projektbeschreibung
+		○ Mitglieder mit Matrikelnummer
+	- 1 Sprint pro Woche 
+
+
+Interne Meetings:
+	- Donnerstag - mit Schubert
+	- Donnerstag + Discord
+	- Ablauf:
+		○ Demo
+		○ Stand-Up - Was habe ich gemacht? Was gab es für Probleme
+		○ Eventuelle Lösung der Probleme
+		○ Nächste Schritte
+
+Tickets:
+	- Ticket mit Akzeptanzkriterien
+	- Anforderungen klar formulieren
+	- Aus User-Stories Tickets bauen
+
+Pitch:
+	- Team-/Projektname
+	- Beschreibung
+	- Anwendungsfall
+	- User Story / Mockups / Story Board / Prototyp
+	- Tech (Programmiersprachen, Entwicklungstools, etc…)
+	- 5 Minuten Pitch
+	- 5-10 Minuten Q&A
+		○ Aufbau
+			§ Problem darstellen
+			§ Lösung / Prototyp (Screenshots)
+	- PDF abgeben
+	
+Aufgaben:
+	- Aufsetzen des Tech-Stack bis 27.10.2022
+	- Meilensteine
+		○ Wann wollen wir was machen/umsetzen?
+	- Aus User-Stories Tickets bauen
+	- Dritter Block 15min Ministand-Up
+	- Pitch
+
+Fragen:
+	- Repo-Orga?
+		○ Repo mit einem Ordner für Front-End und einen für Back-End
+	- Tickets:
+		○ Authentifizierung über LDAP (ADFS) der Hochschule
+		○ #US101 - Modellierung eines Jobangebots
+			§ Properties eines Jobangebotes
+				□ Titel
+				□ Firmenname
+				□ Verantwortlicher
+				□ Kontaktdaten
+		○ #US103 - #US106 - Modellierung eines UserProfils
+		○ API definieren
+		- DummyDaten erstellen

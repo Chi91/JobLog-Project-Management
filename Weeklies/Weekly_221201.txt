@@ -1,0 +1,27 @@
+Weekly Meeting - 01.12.2022
+Protokoll: Matthias Czernia & Chi Thien Pham
+
+- Vorzeigen des aktuellen Zwischenstandes.
+- Milestones liegen im Verzug.
+- Erste Informationen zum PlayTest folgen vom Dozenten bis zur nächsten Woche.
+- PlayTest soll die Realität simulieren, Mockdaten sollen richtige Daten abbilden, kein Lorem Ipsum.
+
+Aussicht für nächste Woche:
+
+- Milestones aufräumen für nächste Woche. Priorisieren, ob ein Feature notwendig ist, wenn dieser schon lange unberührt in der Pipeline / als Blocker vorliegt.
+
+FE:
+- Milestone 1 - Ansicht der Verfügbarkeiten abstimmen und Milestone abschließen.
+- Realisierung der Dokumenten-/Profilbilduploads mit Hilfe von Chi.
+
+BE:
+- Aus Interesse des Dozenten: wie genau wird eine Datei in MongoDB Compass abgelegt (Data: Binary(“ “, 0)).
+- CRUD-Operationen für Applications fertigstellen.
+- ENUMS / Filter weiter strukturieren, je nach Fachbereich die Studienfächer vorsortieren. 
+- Prio für „Registrierung über E-Mail-Account“ und „E-Mail vergessen“ Abwegen (spätestens jedoch nach den PlayTests einbauen, da heutzutage Standard).
+
+-->	Optimierungsvorschlag: Daten, die sich nicht ändern, lokal im Cache / als Cookie mit einbauen. Neuer Tab soll kein erneutes Login benötigen.
+
+
+
+

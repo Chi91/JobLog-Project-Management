@@ -1,0 +1,1 @@
+[Link zur Abschlusspräsentation](https://gitlab.bht-berlin.de/joblog/weeklymeeting/-/tree/main/Abschlusspr%C3%A4sentation%20am%2002_02_23)

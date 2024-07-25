@@ -1,0 +1,24 @@
+Weekly Meeting - 10.11.2022
+Protokoll: Nadine Brandes
+
+Filespeicherung
+    min.io (Open Source) als Vorschlag
+
+Dokumentation
+    Eldab Recherche hinzufügen
+
+Plan
+    Jobcards, Studentcards, Profile
+
+Team-Termine
+    FE - Mi 11 Uhr
+    BE - Di 15 Uhr
+
+    Leader - Mo 11 Uhr
+
+Projektdokumentation
+    anhand der Milestones
+        Was ist geplant (Mocks screenshots)
+        Was wurde umgesetzt (Screenshots "fertiger Seiten" zum Zeitpunkt des Milestone Endzeitpunkt)
+        Welche Probleme sind aufgetreten, welche Lösungsansätze wurden überlegt
+        Ausblick auf kommende Schritte
